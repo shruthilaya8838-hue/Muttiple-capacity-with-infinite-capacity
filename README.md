@@ -16,6 +16,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
+<img width="918" height="543" alt="WhatsApp Image 2026-11-17 at 2 03 45 PM" src="https://github.com/user-attachments/assets/07b1456d-ba77-4bc6-b743-a15c33ee05e4" />
+
 <img width="726" height="409" alt="image" src="https://github.com/user-attachments/assets/b3fe7238-046e-467f-90e8-0fc148dab851" />
 
 
